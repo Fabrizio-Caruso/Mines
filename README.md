@@ -18,3 +18,11 @@ https://github.com/Fabrizio-Caruso/Atari-BASIC-10-liners
 - LOCOMOTIVE BASIC
 
 https://github.com/Fabrizio-Caruso/Locomotive-BASIC-10-liners
+
+- SINCLAIR BASIC
+
+https://github.com/Fabrizio-Caruso/Sinclair-BASIC-10-liners
+
+- AQUARIUS BASIC
+
+https://github.com/Fabrizio-Caruso/Aquarius-BASIC-10-liners
