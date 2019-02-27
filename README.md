@@ -26,3 +26,8 @@ https://github.com/Fabrizio-Caruso/Sinclair-BASIC-10-liners
 - AQUARIUS BASIC
 
 https://github.com/Fabrizio-Caruso/Aquarius-BASIC-10-liners
+
+
+![MinesVic20](Mines20.jpg)
+![MinesM10](MinesM10.jpg)
+![MinesCPC](MinesCPC.jpg)
