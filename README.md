@@ -7,7 +7,7 @@ Currently supported BASIC Families:
 
 https://github.com/Fabrizio-Caruso/CBM-BASIC-10-liners
 
-- TRS-80 BASIC: Color Computer/Dragon, MC-10, Olivetti M10
+- TRS-80 BASIC: Color Computer/Dragon, MC-10, Olivetti M10, VZ200
 
 https://github.com/Fabrizio-Caruso/TRS-80-BASIC-10-liners
 
@@ -26,3 +26,10 @@ https://github.com/Fabrizio-Caruso/Sinclair-BASIC-10-liners
 - AQUARIUS BASIC
 
 https://github.com/Fabrizio-Caruso/Aquarius-BASIC-10-liners
+
+
+![MinesVic20](Mines20.jpg)
+![MinesM10](MinesM10.jpg)
+![MinesCPC](MinesCPC.jpg)
+![MinesMC10](MinesMC10.jpg)
+![Mines128](Mines128_80col.jpg)
