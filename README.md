@@ -1,5 +1,11 @@
 # Mines
-Mines a BASIC 10-liner in sevaral different BASIC dialects
+MINES is a BASIC 10-liner in several different BASIC dialects
+
+The below repositories contain the basic Mines game and in some case extended version of Mines:
+- [10-liner] Mines (for all listed BASIC dialects): simplest version of the game
+- [10-liner] Mines+ (MSX BASIC 1.0, CBM BASIC 3.5, Atari BASIC, Locomotive BASIC 1.0): it adds multiple lives, initial mines, frills
+- [20-liner] Super Mines (Vic-20 only): turn-based version which also adds items
+- [no limit] Hyper Mines (Vic-20 only): it adds more items and graphics
 
 Currently supported BASIC Families:
 
